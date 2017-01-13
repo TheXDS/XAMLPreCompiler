@@ -1,0 +1,3 @@
+# XAMLPreCompiler
+Precompilador de recursos XAML
+Actualmente sólo admite un subset limitado de XAML, y únicamente soporta compilación a VB.Net. Se planea implementar soporte para C# en el futuro...
